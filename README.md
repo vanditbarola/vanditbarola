@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Vandit+Barola+👋;Cybersecurity+%26+Software+Developer+%F0%9F%94%90%F0%9F%92%BB;Full-Stack+Developer+%E2%9A%A1;Ethical+Hacker+%F0%9F%94%8D;Security+Researcher+%F0%9F%9A%80;3rd+Year+CSE+%40+Bennett+University" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-## 🌐 Quick Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -23,50 +19,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
 
-## 💫 System.out.println("About Me");
+## 💫 Who Am I?
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="right">
 </div>
 
-```javascript
-class VanditBarola {
-    constructor() {
-        this.name = "Vandit Barola";
-        this.title = "Cybersecurity Specialist & Full-Stack Developer";
-        this.location = "Greater Noida, India 🇮🇳";
-        this.education = {
-            degree: "BTech Computer Science & Engineering",
-            university: "Bennett University",
-            cgpa: "9.11/10.00",
-            year: "3rd Year (2022-2026)"
-        };
-        this.passion = [
-            "Building secure digital fortresses 🛡️",
-            "Crafting scalable web architectures 🏗️",
-            "Researching cutting-edge security protocols 🔬",
-            "Solving complex cybersecurity challenges 🧩"
-        ];
-        this.currentStatus = "Seeking opportunities in SOC Operations & Penetration Testing";
-    }
+I'm a passionate **cybersecurity enthusiast** and **full-stack developer** who believes in building technology that's not just functional, but fundamentally secure. Currently pursuing my Computer Science Engineering degree at Bennett University with a stellar 9.11 CGPA, I spend my days crafting digital solutions and my nights hunting for vulnerabilities.
 
-    getSkillMatrix() {
-        return {
-            security: ["Ethical Hacking", "Vulnerability Assessment", "Cryptography", "SOC Monitoring"],
-            development: ["React.js", "Node.js", "Python", "Full-Stack Architecture"],
-            research: ["Published Author", "IEEE Conference Speaker", "Springer Contributor"]
-        };
-    }
+What drives me? The intersection of **creativity and security**. Whether I'm developing a sleek React application or conducting penetration testing, I approach every challenge with the mindset of a guardian - protecting digital assets while pushing the boundaries of what's possible.
 
-    executeVision() {
-        console.log("🎯 Mission: Securing the digital world, one code at a time!");
-        console.log("🚀 Building tomorrow's secure applications today!");
-    }
-}
+From publishing research papers in **IEEE conferences** to contributing chapters in **Springer publications**, I'm constantly exploring new frontiers in cybersecurity. My work spans from building adaptive firewalls to developing biometric authentication systems, always with one goal in mind: making the digital world a safer place.
 
-const vandit = new VanditBarola();
-vandit.executeVision();
-```
+When I'm not deep in code or analyzing security protocols, you'll find me sharing knowledge through my technical writing, mentoring fellow developers, or experimenting with the latest security tools. I believe that the best defense against cyber threats is a community of informed, skilled professionals working together.
+
+**My Philosophy**: Every line of code should be both elegant and secure. Every system should be both user-friendly and fortress-strong.
 
 <br clear="right"/>
 
@@ -325,16 +292,13 @@ dev_goals = {
 
 <br clear="left"/>
 
-## 🌐 SocialNetwork.connect()
+## 🌐 More Ways to Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_barolavandit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barolavandit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_drvanditbarola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drvanditbarola)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@Vandit)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/techno_vandit)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/barolavandit)
-[![Phone](https://img.shields.io/badge/📱_+91_7073417707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917073417707)
 
 </div>
 
