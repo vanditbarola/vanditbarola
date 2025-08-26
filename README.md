@@ -44,7 +44,7 @@
 ---
 
 ## 📄 Resume
-👉 [View My Resume]([./vanditbarola_resume.pdf](https://drive.google.com/file/d/1x4LGMSb-o1kXCBIouyruvh0-6-lbr6PY/view?usp=sharing)  
+👉 [View My Resume](https://drive.google.com/file/d/1x4LGMSb-o1kXCBIouyruvh0-6-lbr6PY/view?usp=sharing)  
 
 ---
 
