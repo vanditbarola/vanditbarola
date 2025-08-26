@@ -1,44 +1,59 @@
-# 👋 Hi, I'm Vandit Barola
+# 👋 Hi, I'm Vandit Barola  
 
-I’m a **Computer Science student at Bennett University (CGPA: 9.16/10)**, passionate about **Software Development, Cybersecurity, and AI**.  
-I love building secure, scalable, and user-friendly applications.  
-
----
-
-## 🔑 About Me
-- 💻 Junior Software Developer | Cybersecurity Enthusiast  
-- 🌱 Currently working on **AI-based applications** and **Full-Stack projects**  
-- 📚 Published **Springer Author** & **IEEE Conference Speaker**  
-- 🏆 Certified **Ethical Hacker (CEH)** and **SOC Analyst**  
+🎓 **B.Tech CSE Student at Bennett University (CGPA: 9.16/10)**  
+💻 Aspiring **Software Developer | Cybersecurity Enthusiast | AI/ML Explorer**  
+📍 Based in India  
 
 ---
 
-## 📌 Skills
-**Languages:** Python, JavaScript, C++, SQL  
-**Web Dev:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, Tailwind  
-**Core CS:** DSA, OOP, DBMS, Networks  
-**Cybersecurity:** Penetration Testing, SOC Ops, Cryptography  
+## 🚀 About Me
+- 💼 Internship Experience in **Full-Stack Development** & **Frontend Development**  
+- 🔐 Hands-on projects in **Cybersecurity, AI/ML, and System Security**  
+- 📚 **Published Author (Springer, IEEE)** with research in Medical Image Fusion & Cybersecurity  
+- 🏆 Certified **Ethical Hacker (CEH)** & **SOC Analyst v1**  
+- 🥇 Hackathon Winner (AgniShield – Cybersecurity Track)  
+- ✨ Always exploring new ways to **build secure and scalable applications**  
 
 ---
 
-## 📂 Featured Projects
-- 🛡️ **AgniShield** – AI-powered Firewall System  
-- 💎 **Parasmani Gems** – E-commerce Platform for Luxury Jewelry  
-- 🔐 **Bio-PKI** – Biometric Encryption for Secure Transactions  
-- 👁️ **Mukhdarshak** – Laptop Security with Facial Recognition  
+## 🛠️ Skills
+**Languages:** Python, JavaScript, C++, SQL, MongoDB  
+**Web Development:** React.js, Next.js, Node.js, Express.js, Tailwind, REST APIs  
+**Cybersecurity:** Penetration Testing, SOC Operations, Cryptography, Wireshark, Kali Linux  
+**Core CS:** DSA, OOP, DBMS, Computer Networks  
+**Tools:** Git, GitHub, Vercel, Netlify, Postman, OpenCV  
+
+---
+
+## 📌 Featured Projects
+- 🛡️ **AgniShield** – AI-powered Firewall System (🏆 Hackathon Winner)  
+- 🤖 **Aatma.AI** – Offline AI Assistant with Long-Term Memory  
+- 💎 **Parasmani Gems** – Full-Stack E-commerce Platform  
+- 📊 **BahiKhata** – Billing & Inventory Management Software  
+- 🔐 **Bio-PKI** – Biometric Encryption System  
+- 👁️ **Mukhdarshak** – Laptop Security with Face Recognition  
+
+---
+
+## 📚 Research & Publications
+- 📖 *Springer (2024)* – Healthcare Security Risk Assessment  
+- 🎤 *IEEE ANTS 2024* – BioPKI Authentication in Healthcare  
+- 📰 *SMART International Conference 2024* – Advanced Cryptographic Techniques  
+- 🏥 *ICCK 2025 (Accepted)* – Multi-modal Medical Image Fusion  
 
 ---
 
 ## 📄 Resume
-👉 [View My Resume](./vanditbarola_resume.pdf)
+👉 [View My Resume](./vanditbarola_resume.pdf)  
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: [barolavandit@gmail.com](mailto:barolavandit@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/drvanditbarola](https://www.linkedin.com/in/drvanditbarola/)  
-- 🌍 Portfolio: [bwtechh.in](https://bwtechh.in)  
-- 💻 GitHub: [github.com/vanditbarola](https://github.com/vanditbarola)  
+- 📧 [barolavandit@gmail.com](mailto:barolavandit@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/drvanditbarola/)  
+- 🌍 [Portfolio](https://bwtechh.in)  
+- 💻 [GitHub](https://github.com/vanditbarola)  
 
 ---
-✨ *Always excited to collaborate on impactful projects in Software Development & Cybersecurity.*  
+
+✨ *“Securing the digital world while building scalable solutions.”*  
